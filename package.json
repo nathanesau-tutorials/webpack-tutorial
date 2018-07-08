@@ -1,0 +1,25 @@
+{
+  "name": "tennis-stats",
+  "version": "1.0.0",
+  "description": "Stats webpage for [ATPWorldTour](https://www.atpworldtour.com). Currently only hosted locally.",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "lint": "",
+    "profile": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanesau/tennis-stats.git"
+  },
+  "author": "Nathan Esau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanesau/tennis-stats/issues"
+  },
+  "homepage": "https://github.com/nathanesau/tennis-stats#readme",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
